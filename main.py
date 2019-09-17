@@ -1,7 +1,4 @@
 #!/usr/bin/env python3
-"""
-Module Docstring
-"""
 
 __author__ = "Shekhar Upadhaya <shekhar_8888@hotmail.com>"
 __version__ = "0.1.0"
