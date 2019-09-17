@@ -1,0 +1,14 @@
+
+# Distribution / packaging
+bin/
+.idea
+.DS_Store
+
+# Installer logs
+pip-log.txt
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
