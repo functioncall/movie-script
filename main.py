@@ -5,7 +5,6 @@ Module Docstring
 
 __author__ = "Shekhar Upadhaya <shekhar_8888@hotmail.com>"
 __version__ = "0.1.0"
-__license__ = "MIT"
 
 import argparse
 from src.core.movie_app import MovieApp
