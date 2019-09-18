@@ -3,3 +3,197 @@
 09-17 15:30 root         INFO     get_person_details() ran in 2.354 sec
 09-17 15:30 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
 09-17 15:30 root         INFO     get_person_movie_credits() ran in 2.309 sec
+09-17 23:16 root         INFO     ######### Script initiated for person Quenadastin Tarasdsadantino ##########
+09-17 23:16 root         INFO     Ran get_person_details() with args: ('Quenadastin Tarasdsadantino',) 
+09-17 23:16 root         INFO     get_person_details() ran in 1.564 sec
+09-17 23:16 root         ERROR    Cannot get director id for Quenadastin Tarasdsadantino
+09-18 14:32 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 14:32 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 14:32 root         INFO     get_person_details() ran in 2.168 sec
+09-18 14:32 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 14:32 root         INFO     get_person_movie_credits() ran in 2.194 sec
+09-18 14:33 root         INFO     ######### Script initiated for person Quenadastin Tarasdsadantino ##########
+09-18 14:33 root         INFO     Ran get_person_details() with args: ('Quenadastin Tarasdsadantino',) 
+09-18 14:33 root         INFO     get_person_details() ran in 1.869 sec
+09-18 14:33 root         ERROR    Cannot get director id for Quenadastin Tarasdsadantino
+09-18 15:18 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 15:18 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 15:18 root         INFO     get_person_details() ran in 2.225 sec
+09-18 15:18 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 15:18 root         INFO     get_person_movie_credits() ran in 2.142 sec
+09-18 15:19 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 15:19 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 15:19 root         INFO     get_person_details() ran in 1.695 sec
+09-18 15:19 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 15:19 root         INFO     get_person_movie_credits() ran in 1.949 sec
+09-18 15:19 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 15:19 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 15:19 root         INFO     ######### Script initiated for person Quenadastin Tarasdsadantino ##########
+09-18 15:19 root         INFO     Ran get_person_details() with args: ('Quenadastin Tarasdsadantino',) 
+09-18 15:19 root         INFO     get_person_details() ran in 2.400 sec
+09-18 15:19 root         ERROR    Cannot get Id for Quenadastin Tarasdsadantino
+09-18 15:19 root         INFO     ######### Script initiated for person Quenadastin Tarasdsadantino ##########
+09-18 15:19 root         INFO     Ran get_person_details() with args: ('Quenadastin Tarasdsadantino',) 
+09-18 15:19 root         INFO     ######### Script initiated for person Brad Pitt ##########
+09-18 15:19 root         INFO     Ran get_person_details() with args: ('Brad Pitt',) 
+09-18 15:19 root         INFO     get_person_details() ran in 1.591 sec
+09-18 15:19 root         INFO     Ran get_person_movie_credits() with args: ('287',) 
+09-18 15:19 root         INFO     get_person_movie_credits() ran in 2.468 sec
+09-18 15:19 root         ERROR    Cannot find any movies directed by Brad Pitt with id: 287
+09-18 15:30 root         INFO     ######### Script initiated for person Brad Pitt ##########
+09-18 15:30 root         INFO     Ran get_person_details() with args: ('Brad Pitt',) 
+09-18 15:30 root         INFO     get_person_details() ran in 1.921 sec
+09-18 15:30 root         INFO     Ran get_person_movie_credits() with args: ('287',) 
+09-18 15:30 root         INFO     get_person_movie_credits() ran in 2.871 sec
+09-18 15:30 root         ERROR    Cannot find any movies directed by Brad Pitt with id: 287
+09-18 15:30 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 15:30 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 15:30 root         INFO     get_person_details() ran in 2.359 sec
+09-18 15:30 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 15:30 root         INFO     get_person_movie_credits() ran in 2.673 sec
+09-18 16:05 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 16:05 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:05 root         INFO     get_person_details() ran in 2.355 sec
+09-18 16:05 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:05 root         INFO     get_person_movie_credits() ran in 1.948 sec
+09-18 16:05 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 16:05 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:05 root         INFO     get_person_details() ran in 1.791 sec
+09-18 16:05 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:05 root         INFO     get_person_movie_credits() ran in 1.948 sec
+09-18 16:10 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 16:10 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:10 root         INFO     get_person_details() ran in 1.677 sec
+09-18 16:10 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:11 root         INFO     get_person_movie_credits() ran in 2.201 sec
+09-18 16:12 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 16:12 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:12 root         INFO     get_person_details() ran in 2.118 sec
+09-18 16:12 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:12 root         INFO     get_person_movie_credits() ran in 2.289 sec
+09-18 16:13 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 16:13 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:14 root         INFO     get_person_details() ran in 1.993 sec
+09-18 16:14 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:14 root         INFO     get_person_movie_credits() ran in 2.424 sec
+09-18 16:14 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 16:14 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:14 root         INFO     get_person_details() ran in 2.152 sec
+09-18 16:14 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:15 root         INFO     get_person_movie_credits() ran in 2.866 sec
+09-18 16:15 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 16:15 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:15 root         INFO     get_person_details() ran in 2.084 sec
+09-18 16:15 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:15 root         INFO     get_person_movie_credits() ran in 2.866 sec
+09-18 16:16 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 16:16 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:16 root         INFO     get_person_details() ran in 2.181 sec
+09-18 16:16 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:16 root         INFO     get_person_movie_credits() ran in 3.082 sec
+09-18 16:17 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 16:17 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:17 root         INFO     get_person_details() ran in 1.952 sec
+09-18 16:17 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:17 root         INFO     get_person_movie_credits() ran in 1.874 sec
+09-18 16:24 root         INFO     ######### Script initiated for person Quentin Tarantino ##########
+09-18 16:24 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:24 root         INFO     get_person_details() ran in 1.438 sec
+09-18 16:24 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:24 root         INFO     get_person_movie_credits() ran in 1.622 sec
+09-18 16:25 root         INFO     ######### Script initiated for person  ##########
+09-18 16:25 root         INFO     Ran get_person_details() with args: ('',) 
+09-18 16:25 root         INFO     get_person_details() ran in 1.644 sec
+09-18 16:32 root         INFO     ######### Script initiated for person  ##########
+09-18 16:32 root         ERROR    Person name cannot be empty
+09-18 16:32 root         INFO     ######### Script initiated for person  ##########
+09-18 16:32 root         ERROR    Person name cannot be empty
+09-18 16:33 root         INFO     ######### Script initiated for person  ##########
+09-18 16:33 root         ERROR    Person name cannot be empty
+09-18 16:33 root         INFO     ######### Script initiated for person  ##########
+09-18 16:33 root         ERROR    Person name cannot be empty
+09-18 16:33 root         INFO     ######### Script initiated for person  ##########
+09-18 16:33 root         ERROR    Person name cannot be empty
+09-18 16:34 root         INFO     ######### Script initiated for person Qasd asasca ##########
+09-18 16:34 root         INFO     Ran get_person_details() with args: ('Qasd asasca',) 
+09-18 16:34 root         INFO     get_person_details() ran in 1.545 sec
+09-18 16:34 root         ERROR    Cannot get Id for Qasd asasca
+09-18 16:34 root         INFO     ######### Script initiated for person Brad Pitt ##########
+09-18 16:34 root         INFO     Ran get_person_details() with args: ('Brad Pitt',) 
+09-18 16:34 root         INFO     get_person_details() ran in 1.284 sec
+09-18 16:34 root         INFO     Ran get_person_movie_credits() with args: ('287',) 
+09-18 16:34 root         INFO     get_person_movie_credits() ran in 1.740 sec
+09-18 16:34 root         ERROR    Cannot find any movies directed by Brad Pitt with id: 287
+09-18 16:34 root         INFO     ######### Script initiated for person Christopher Nolan ##########
+09-18 16:34 root         INFO     Ran get_person_details() with args: ('Christopher Nolan',) 
+09-18 16:34 root         INFO     get_person_details() ran in 1.231 sec
+09-18 16:34 root         INFO     Ran get_person_movie_credits() with args: ('525',) 
+09-18 16:34 root         INFO     get_person_movie_credits() ran in 1.287 sec
+09-18 16:38 root         INFO     ######### Script initiated for person <Quentin Tarantino> ##########
+09-18 16:38 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:38 root         INFO     get_person_details() ran in 1.802 sec
+09-18 16:38 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:38 root         INFO     get_person_movie_credits() ran in 2.283 sec
+09-18 16:43 root         INFO     ######### Script initiated for person <Quentin Tarantino> ##########
+09-18 16:43 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:43 root         INFO     get_person_details() ran in 1.659 sec
+09-18 16:43 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:43 root         INFO     get_person_movie_credits() ran in 1.818 sec
+09-18 16:44 root         INFO     ######### Script initiated for person <Quentin Tarantino> ##########
+09-18 16:44 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:44 root         INFO     get_person_details() ran in 1.460 sec
+09-18 16:44 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:44 root         INFO     get_person_movie_credits() ran in 1.741 sec
+09-18 16:44 root         INFO     ######### Script initiated for person <Quentin Tarantino> ##########
+09-18 16:44 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:44 root         INFO     get_person_details() ran in 1.648 sec
+09-18 16:44 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:44 root         INFO     get_person_movie_credits() ran in 2.425 sec
+09-18 16:56 root         INFO     ######### Script initiated for person <Quentin Tarantino> ##########
+09-18 16:56 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:56 root         INFO     get_person_details() ran in 0.018 sec
+09-18 16:56 root         ERROR    Cannot get Id for Quentin Tarantino
+09-18 16:56 root         INFO     ######### Script initiated for person <Quentin Tarantino> ##########
+09-18 16:56 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:57 root         INFO     get_person_details() ran in 1.850 sec
+09-18 16:57 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:57 root         INFO     get_person_movie_credits() ran in 1.948 sec
+09-18 17:02 root         INFO     ######### Script initiated for person <> ##########
+09-18 17:02 root         ERROR    Person name cannot be empty
+09-18 17:03 root         INFO     ######### Script initiated for person <Quentbhv> ##########
+09-18 17:03 root         INFO     Ran get_person_details() with args: ('Quentbhv',) 
+09-18 17:03 root         INFO     get_person_details() ran in 1.640 sec
+09-18 17:03 root         ERROR    Cannot get Id for Quentbhv
+09-18 17:03 root         INFO     ######### Script initiated for person <Quentin Tarantino> ##########
+09-18 17:03 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 17:03 root         INFO     ######### Script initiated for person <Brad Pitt> ##########
+09-18 17:03 root         INFO     Ran get_person_details() with args: ('Brad Pitt',) 
+09-18 17:03 root         INFO     get_person_details() ran in 1.272 sec
+09-18 17:03 root         INFO     Ran get_person_movie_credits() with args: ('287',) 
+09-18 17:03 root         INFO     get_person_movie_credits() ran in 1.641 sec
+09-18 17:03 root         ERROR    Cannot find any movies directed by Brad Pitt with id: 287
+09-18 17:03 root         INFO     ######### Script initiated for person <Brad Pitt> ##########
+09-18 17:03 root         INFO     Ran get_person_details() with args: ('Brad Pitt',) 
+09-18 17:04 root         INFO     get_person_details() ran in 5.072 sec
+09-18 17:04 root         INFO     Ran get_person_movie_credits() with args: ('287',) 
+09-18 17:04 root         INFO     get_person_movie_credits() ran in 2.036 sec
+09-18 17:04 root         ERROR    Cannot find any movies directed by Brad Pitt
+09-18 17:04 root         INFO     ######### Script initiated for person <Jonathan nolan> ##########
+09-18 17:04 root         INFO     Ran get_person_details() with args: ('Jonathan nolan',) 
+09-18 17:04 root         INFO     get_person_details() ran in 2.965 sec
+09-18 17:04 root         INFO     Ran get_person_movie_credits() with args: ('527',) 
+09-18 17:04 root         INFO     get_person_movie_credits() ran in 1.687 sec
+09-18 17:04 root         ERROR    Cannot find any movies directed by Jonathan nolan
+09-18 17:04 root         INFO     ######### Script initiated for person <Jonathan Nolan> ##########
+09-18 17:04 root         INFO     Ran get_person_details() with args: ('Jonathan Nolan',) 
+09-18 17:04 root         INFO     get_person_details() ran in 1.704 sec
+09-18 17:04 root         INFO     Ran get_person_movie_credits() with args: ('527',) 
+09-18 17:04 root         INFO     get_person_movie_credits() ran in 1.569 sec
+09-18 17:04 root         ERROR    Cannot find any movies directed by Jonathan Nolan
+09-18 17:05 root         INFO     ######### Script initiated for person <Alejandro Gonzalez> ##########
+09-18 17:05 root         INFO     Ran get_person_details() with args: ('Alejandro Gonzalez',) 
+09-18 17:05 root         INFO     get_person_details() ran in 1.480 sec
+09-18 17:05 root         INFO     Ran get_person_movie_credits() with args: ('223',) 
+09-18 17:05 root         INFO     get_person_movie_credits() ran in 1.351 sec
+09-18 17:06 root         INFO     ######### Script initiated for person <> ##########
+09-18 17:06 root         ERROR    Person name cannot be empty

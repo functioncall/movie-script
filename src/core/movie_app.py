@@ -11,7 +11,7 @@ class MovieApp(App):
         self.director_name = director_name
 
     def execute(self):
-        logging.info(f"######### Script initiated for person {self.director_name} ##########")
+        logging.info(f"######### Script initiated for person <{self.director_name}> ##########")
 
         director = Director(self.director_name)
 

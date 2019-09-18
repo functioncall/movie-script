@@ -2,3 +2,11 @@
 09-17 15:12 root         INFO     get_person_details() ran in 0.001 sec
 09-17 15:12 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
 09-17 15:12 root         INFO     get_person_movie_credits() ran in 0.000 sec
+09-17 23:15 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-17 23:15 root         INFO     get_person_details() ran in 0.002 sec
+09-17 23:15 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-17 23:15 root         INFO     get_person_movie_credits() ran in 0.000 sec
+09-18 16:38 root         INFO     Ran get_person_details() with args: ('Quentin Tarantino',) 
+09-18 16:38 root         INFO     get_person_details() ran in 0.002 sec
+09-18 16:38 root         INFO     Ran get_person_movie_credits() with args: ('138',) 
+09-18 16:38 root         INFO     get_person_movie_credits() ran in 0.000 sec

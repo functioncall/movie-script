@@ -1,6 +1,8 @@
 import json
 import time
 import logging
+import memory_profiler as mem_profile
+
 from functools import wraps
 
 
@@ -57,6 +59,19 @@ def timer(original_function):
         toc = time.time()
 
         logging.info("{}() ran in {:.3f} sec".format(original_function.__name__, toc - tic))
+        return result
+
+    return wrapper
+
+
+def memory(original_function):
+
+    @wraps(original_function)
+    def wrapper(*args, **kwargs):
+        print("Memory before running {}() is {:.3f} Mb".format(original_function.__name__, mem_profile.memory_usage()[0]))
+        result = original_function(*args, **kwargs)
+        print("Memory after running {}() is {:.3f} Mb".format(original_function.__name__, mem_profile.memory_usage()[0]))
+
         return result
 
     return wrapper

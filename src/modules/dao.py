@@ -2,7 +2,7 @@ from src.common import configurations
 from src.modules import utilities
 from src.common import KEYS, STRINGS
 from src.modules.logger import logger
-from src.modules.utilities import timer
+from src.modules.utilities import timer, memory
 
 import requests
 from requests.exceptions import RequestException
@@ -36,7 +36,10 @@ class Dao:
         }
         endpoint = self.get_search_person_endpoint
 
-        return self._call_api(endpoint, payload)
+        return {
+            'person_name': name,
+            'result': self._call_api(endpoint, payload),
+        }
 
     @timer
     @logger
